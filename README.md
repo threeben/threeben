@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @threeben aka Ben
+##👋 Hi, I’m @threeben aka Ben##
 - 👀 I’m interested in Data Analysis & CyberSecurity
-- 🌱 I’m currently learning SQL, Python & Power BI (to enhance my career)
+- 🌱 I’m ~~currently~~ always learning new stuff
 - 📫 How to reach me via LinkedIn or email ben@live.ru
 
 <!---
